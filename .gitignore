@@ -6,3 +6,7 @@ src/main/scala/finavia/ApiKeys.scala
 
 # Ignore the .idea folder (created by IntelliJ IDEA)
 .idea/
+
+target/
+.bsp/
+project/target/
