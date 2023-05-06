@@ -1,0 +1,8 @@
+# Ignore the file containing API keys
+src/main/scala/finavia/ApiKeys.scala
+
+# Ignore all .log files
+*.log
+
+# Ignore the .idea folder (created by IntelliJ IDEA)
+.idea/
