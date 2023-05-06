@@ -9,4 +9,4 @@ src/main/scala/finavia/ApiKeys.scala
 
 target/
 .bsp/
-project/target/
+
